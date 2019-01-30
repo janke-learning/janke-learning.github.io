@@ -50,7 +50,7 @@ var BugDispatch = {
         canFly: true,
         canDie: true,
         numDeathTypes: 5,
-        monitorMouseMovement: false,
+        monitorMouseMovement: true,
         eventDistanceToBug: 40,
         minTimeBetweenMultipy: 5000,
         mouseOver: 'random' // can be 'fly', 'flyoff' (if the bug can fly), die', 'multiply', 'nothing' or 'random'
